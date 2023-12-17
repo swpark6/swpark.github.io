@@ -4,7 +4,6 @@ date: 2023-02-06
 categories: OOP
 ---
 
-# New is glue (커플링)
 ## 용어
 - POCO, or Plain Old CLR Type
 ## 내용
