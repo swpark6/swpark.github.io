@@ -117,5 +117,5 @@ public void ValidateOrAddBuyerAgreegateWhenOrderStartedDomainEventHandler {
 ```
 
 ### Ref
-- [카카오DDD](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
+- [[1]카카오DDD](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
 - [[2]MSDN도메인이벤트](https://learn.microsoft.com/ko-kr/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation)
