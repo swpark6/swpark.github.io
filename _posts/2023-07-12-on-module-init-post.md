@@ -1,3 +1,10 @@
+---
+title: "nestjs onModuleInit"
+date: 2023-07-12
+tags: 
+  - nest.js
+---
+
 onModuleInit 에 대하여…
 
 요청때마다 생성자가 필요한 자원(인스턴스)들은 초기화는 onModuleInit을 통하는게아닌, 직접 Construct에 넣어서 초기화 해주어야 함. 
