@@ -262,5 +262,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:                   # 카테고리 사이드바 끄기:(false)
+        nav: "sidebar-category" 
 
 remote_theme : mmistakes/minimal-mistakes
