@@ -1,7 +1,8 @@
 ---
 title: "Aragon2"
 date: 2023-01-27
-categories: OOP
+tags: 
+  - OOP
 ---
 
 - Blake2b 로 해시하여 초기 변환을 거치고, 내부 함수를 반복 수행하여 완성
