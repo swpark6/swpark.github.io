@@ -1,7 +1,8 @@
 ---
 title: "inheritance and composition"
 date: 2022-12-21
-categories: OOP
+tags: 
+  - OOP
 ---
 
 ## inheritance
