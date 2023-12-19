@@ -1,7 +1,8 @@
 ---
 title: "New is glue"
 date: 2023-02-06
-categories: OOP
+tags: 
+  - OOP
 ---
 
 ## 용어
