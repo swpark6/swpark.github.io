@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Category"
-  - children:
-    - title: "OOP"
-      url: "/oop"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -14,3 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Category"
+  - children:
+    - title: "OOP"
+      url: "/oop"
