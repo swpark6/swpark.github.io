@@ -16,7 +16,7 @@ categories: OOP
 - `new` 키워드를 사용할 때 현재 함수나 클래스를 특정 구현에 밀접하게 결합한다는 사실에 대해 생각해야 합니다.
 
 ### New 가 문제가 되는 곳
-- POCO 또는 Plain Old CLR Type 이 아닌 경우 (랭기지에서 제공하는 기본 클래스라고 생각하면 될듯)
+- POCO 또는 Plain Old CLR Type 이 아닌 경우 (랭기지에서 제공하는 기본 클래스라고 생각하면 쉽습니다. such as POJO)
     - String, DateTime, 사용자 정의 DTO들은 테스트하기에 어렵지 않다.
     - `SqlConnection` 같은 것을 붙일 때, 즉시 데이터베이스 서버에 연결 시도를 할 것이고, 연결에 실패했을 경우 예외를 던질 것이다. 이것은 매우 큰 risk이다. 또한 특별한 도구 없이는 쉽게 테스트할 수 없다. 따라서 connection에 관한 추상화 없이는 connection pooling, caching 이나 다른 종류의 데이터 스토어를 구현하는게 어렵다.
 
