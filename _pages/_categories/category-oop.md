@@ -1,7 +1,7 @@
 ---
 title: "OOP"
 layout: archive
-permalink: categories/oop
+permalink: /oop
 author_profile: true
 sidebar_main: true
 ---
